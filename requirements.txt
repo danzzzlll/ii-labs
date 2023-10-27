@@ -1,0 +1,9 @@
+transfromers
+bitsandbytes
+safetensors
+sentencepiece
+pandas
+torch
+scikit-learn
+datasets
+huggingface_hub
